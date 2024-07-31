@@ -1,0 +1,28 @@
+.hero-bg-1 {
+  background: rgb(249, 227, 227);
+  background: linear-gradient(
+    177deg,
+    rgba(249, 227, 227, 1) 0%,
+    rgba(249, 229, 229, 1) 21%,
+    rgba(248, 220, 221, 1) 33%,
+    rgba(248, 224, 225, 1) 51%,
+    rgba(249, 240, 240, 1) 66%,
+    rgba(249, 248, 248, 1) 80%,
+    rgba(249, 249, 249, 1) 100%
+  );
+}
+.hero-bg-2 {
+  background-color: #e7f7ed;
+}
+.effect {
+    animation: fadeIn 3s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

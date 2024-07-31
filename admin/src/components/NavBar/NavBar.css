@@ -1,0 +1,14 @@
+.bg-gradient {
+  background: rgb(249, 227, 227);
+  background: linear-gradient(
+    177deg,
+    rgba(249, 227, 227, 1) 0%,
+    rgba(249, 229, 229, 1) 7%,
+    rgba(248, 220, 221, 1) 51%,
+    rgba(248, 224, 225, 1) 100%
+
+  );
+}
+.hg{
+  background-color: #f8fefade;
+}

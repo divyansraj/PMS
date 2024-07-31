@@ -1,0 +1,8 @@
+.Active{
+    border: 5px solid tomato;
+    border-radius:100px;
+    padding: 2px;
+}
+.explore-menu-list::-webkit-scrollbar{
+    display: none;
+}
